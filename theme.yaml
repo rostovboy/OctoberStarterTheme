@@ -3,3 +3,8 @@ description: 'Starter Theme'
 author: FractalStudio
 homepage: ''
 code: ''
+require:
+    - OFFLINE.CORS
+    - Pikanji.Agent
+    - Inetis.ListSwitch
+    - RainLab.User
