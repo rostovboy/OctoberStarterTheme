@@ -1,2 +1,8 @@
 .DS_Store
 .idea
+composer.lock
+/node_modules
+
+assets/css
+assets/js
+assets/mix-manifest.json
