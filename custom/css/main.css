@@ -1,0 +1,13 @@
+html {
+    font-size: 18px;
+    background-color: #003d7c;
+}
+
+@media print {
+    .noprint {
+        display: none!important;
+    }
+    .print {
+        display: block!important;
+    }
+}
